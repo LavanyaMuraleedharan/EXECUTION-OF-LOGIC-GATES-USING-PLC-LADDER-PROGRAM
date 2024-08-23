@@ -99,7 +99,7 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 ![iiot exp1 nor](https://github.com/user-attachments/assets/166fefe9-1922-408a-bdb8-ef90d586b3e5)
 
 
-#Results:
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
