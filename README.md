@@ -1,10 +1,10 @@
-# EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
+![IIot exp1 or](https://github.com/user-attachments/assets/7efe6181-57a2-4c8a-ade2-0cbb449b187d)# EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME : LAVANYA M
+ # REGISTER NUMBER : 212222110021
+ # DEPARTMENT  : CSE(IoT)
+ # YEAR : 3
 
  
 # Aim:
@@ -79,6 +79,24 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+
+### AND GATE
+![IIOT EXP1 and](https://github.com/user-attachments/assets/c42b0568-494a-4959-9e8a-cd922b6c8d46)
+
+### OR GATE
+![IIot exp1 or](https://github.com/user-attachments/assets/fe01dacb-ef1a-43aa-b52c-5258a7c01374)
+
+### NOT GATE
+![IIot exp1 not](https://github.com/user-attachments/assets/c71277bc-3e82-4d9f-a1f9-404936cda9dd)
+
+### NAND GATE
+![IIot exp1 nand](https://github.com/user-attachments/assets/305df3b5-6685-4795-85d4-a5c957bdbca3)
+
+### XOR GATE
+![IIot exp1 xor](https://github.com/user-attachments/assets/4838c15f-ccf2-4c6c-a0c2-b4a44c4a62b8)
+
+### NOR GATE
+![iiot exp1 nor](https://github.com/user-attachments/assets/166fefe9-1922-408a-bdb8-ef90d586b3e5)
 
 
 #Results:
