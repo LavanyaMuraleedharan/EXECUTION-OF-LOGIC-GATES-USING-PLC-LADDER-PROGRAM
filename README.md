@@ -1,4 +1,4 @@
-![IIot exp1 or](https://github.com/user-attachments/assets/7efe6181-57a2-4c8a-ade2-0cbb449b187d)# EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
+# EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
  # NAME : LAVANYA M
